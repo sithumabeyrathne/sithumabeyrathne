@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm sithum abeyrathne</h1>
 <h3 align="center">programmmer</h3>
 
-<img align="left" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3GmoWLAJ_QgrjgUctotQxR&ust=1686056964712000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKibseuZrP8CFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumabeyrathne&label=Profile%20views&color=0e75b6&style=flat" alt="sithumabeyrathne" /> </p>
 
