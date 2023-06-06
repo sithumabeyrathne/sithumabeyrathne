@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm sithum abeyrathne</h1>
 <h3 align="center">programmmer</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXdXM1NEOV90MjRSZktJX0toSElaZjlfWXRfUXxBQ3Jtc0trdjRJak8xM2ZMZnFxT0d3bGhiTlNWb3dUTkUtX3kzazZ0djA0VHVieFZpLXpXUGZJRWNJTl9CVFI1UEJXRXRiYllSR18zcVhhcmpYY2Z2UHN0andkYVdPbzdNT0NTVTFrVjRxN0lGdTI5T183NkNYOA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumabeyrathne&label=Profile%20views&color=0e75b6&style=flat" alt="sithumabeyrathne" /> </p>
 
